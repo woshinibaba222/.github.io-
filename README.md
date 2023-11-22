@@ -10,6 +10,7 @@ DoraCMS version 2.1.8
 https://github.com/doramart/DoraCMS
 ## Environment Deployment Tool
 VSCode
+MongoDB
 ## Reproduction Steps:
 
 Access the backend address: http://192.168.184.142:8080/dr-admin
